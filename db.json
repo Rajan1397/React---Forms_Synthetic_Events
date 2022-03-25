@@ -1,0 +1,130 @@
+{
+  "employee": [
+    {
+      "name": "Rajan",
+      "age": "24",
+      "address": "Delhi",
+      "department": "hr",
+      "salary": "10000",
+      "maritalStatus": true,
+      "id": 1
+    },
+    {
+      "name": "Abhishek Kumar",
+      "age": "21",
+      "address": "Chandigarh",
+      "department": "hr",
+      "salary": "2000",
+      "maritalStatus": false,
+      "id": 2
+    },
+    {
+      "name": "Hritik",
+      "age": "212",
+      "address": "Delhi",
+      "department": "",
+      "salary": "121212",
+      "maritalStatus": true,
+      "id": 3
+    },
+    {
+      "name": "Siya",
+      "age": "23",
+      "address": "Delhi",
+      "department": "medical",
+      "salary": "100000",
+      "maritalStatus": true,
+      "id": 4
+    },
+    {
+      "name": "Menka",
+      "age": "25",
+      "address": "Delhi",
+      "department": "finance",
+      "salary": "10000000",
+      "maritalStatus": true,
+      "id": 5
+    },
+    {
+      "name": "Aditi",
+      "age": "22",
+      "address": "Pune",
+      "department": "engineering",
+      "salary": "144444",
+      "maritalStatus": false,
+      "id": 6
+    },
+    {
+      "name": "Karishma",
+      "age": "24",
+      "address": "Delhi",
+      "department": "it",
+      "salary": "14444444",
+      "maritalStatus": false,
+      "id": 7
+    },
+    {
+      "name": "Raghu",
+      "age": "35",
+      "address": "Bihar",
+      "department": "",
+      "salary": "1234546",
+      "maritalStatus": true,
+      "id": 8
+    },
+    {
+      "name": "Manisha",
+      "age": "24",
+      "address": "Delhi",
+      "department": "medical",
+      "salary": "78448",
+      "maritalStatus": false,
+      "id": 9
+    },
+    {
+      "name": "Laxmi",
+      "age": "19",
+      "address": "Kolkata",
+      "department": "",
+      "salary": "121112",
+      "maritalStatus": false,
+      "id": 10
+    },
+    {
+      "name": "Laxmi",
+      "age": "22",
+      "address": "Bengal",
+      "department": "",
+      "salary": "14444",
+      "maritalStatus": false,
+      "id": 11
+    },
+    {
+      "name": "Aditi",
+      "age": "22",
+      "address": "Pune",
+      "department": "engineering",
+      "salary": "1212122",
+      "maritalStatus": false,
+      "id": 12
+    },
+    {
+      "name": "Ranajana",
+      "age": "24",
+      "address": "Delhi",
+      "department": "hr",
+      "salary": "546546",
+      "maritalStatus": true,
+      "id": 13
+    },
+    {
+      "name": "Mansi",
+      "age": "22",
+      "address": "UP",
+      "department": "finance",
+      "salary": "65465",
+      "maritalStatus": false,
+      "id": 14
+    }
+  ]
+}
